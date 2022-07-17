@@ -1,0 +1,349 @@
+\t (00:00:05) allegro 17.2 S058 Windows SPB 64-bit Edition
+\t (00:00:05)     Journal start - Tue Jul 12 10:26:55 2022
+\t (00:00:05)         Host=DESKTOP-MTQN6DE User=admin Pid=10284 CPUs=8
+\t (00:00:05) CmdLine= c:\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe C:\Users\admin\Desktop\P2126\P2126-MB-V3_1.brd
+\t (00:00:05) 
+   (00:00:05) Loading axlcore.cxt 
+   (00:00:05) *Error* load: password required for reading file - "./x_cline2shape.il"
+   (00:00:05) function Orphan_Nets redefined
+   (00:00:05) function RefDestoCenter redefined
+   (00:00:05) function ps_RefDestoCenter_Routine redefined
+   (00:00:05) function ps_RefDestoCenterstop redefined
+   (00:00:05) function h_via_main redefined
+   (00:00:05) function via_form redefined
+   (00:00:05) function hl_via redefined
+   (00:00:05) function fanout_bbvia redefined
+   (00:00:05) function fanout_bbvia_form redefined
+   (00:00:05) function do_fanout_bbvia redefined
+   (00:00:05) function viacheck redefined
+   (00:00:05) function check_i redefined
+   (00:00:05) function gndname redefined
+   (00:00:05) function c_name redefined
+   (00:00:05) function sn_viadrc redefined
+   (00:00:05) function s_k redefined
+   (00:00:05) function clear_RF redefined
+   (00:00:05) function clear_RF_form redefined
+   (00:00:05) function do_clear_RF redefined
+   (00:00:05) function auto_via redefined
+   (00:00:05) function auto_via_form redefined
+   (00:00:05) function add_vias redefined
+   (00:00:05) function DstAllegroSelectPin redefined
+   (00:00:05) function DstAllegroSelectComponent redefined
+   (00:00:05) function DstAllegroSelectNet redefined
+   (00:00:05) function DstOutputFilms redefined
+   (00:00:05) function DstAllegroTriggerCallBack redefined
+   (00:00:05) function DstReadCAM350CommunicationFile redefined
+   (00:00:05) function DstAllegroSetLayerVis redefined
+   (00:00:05) function DstAllegroSetOptions redefined
+   (00:00:05) function DstCheckAllegroSelection redefined
+   (00:00:05) function DstCheckAllegroSelectionAndView redefined
+   (00:00:05) function DstCheckCAM350Action redefined
+   (00:00:05) function DstCAM350TimerCallBack redefined
+   (00:00:05) function DstSetCallBacks redefined
+   (00:00:05) function DstRemoveCallBacks redefined
+   (00:00:05) function DstSetCAM350MenuItemInAllegro redefined
+   (00:00:05) function DstUpdateCAM350CommunicationFile redefined
+   (00:00:05) function DstInitCAM350CommunicationFile redefined
+   (00:00:05) function DstCAM350 redefined
+   (00:00:05) function DstStop redefined
+   (00:00:05) function DstOn redefined
+   (00:00:05) function DstOff redefined
+   (00:00:05) function aln redefined
+   (00:00:05) function alnDone redefined
+   (00:00:05) function alnOops redefined
+   (00:00:05) function alnCancel redefined
+   (00:00:05) function alnExit redefined
+   (00:00:05) function alnInitForm redefined
+   (00:00:05) function _parmCallBack redefined
+   (00:00:05) function alnInitGlobalVariable redefined
+   (00:00:05) function alnInitHotKeys redefined
+   (00:00:05) function alnRestoreHotKeys redefined
+   (00:00:05) function alnStoreFormData redefined
+   (00:00:05) function alnRestoreFormData redefined
+   (00:00:05) function alnStoreFilter redefined
+   (00:00:05) function alnRestoreFilter redefined
+   (00:00:05) function alnOnTop redefined
+   (00:00:05) function alnDoTop redefined
+   (00:00:05) function alnDoMoveTop redefined
+   (00:00:05) function alnOnBottom redefined
+   (00:00:05) function alnDoBottom redefined
+   (00:00:05) function alnDoMoveBottom redefined
+   (00:00:05) function alnOnLeft redefined
+   (00:00:05) function alnDoLeft redefined
+   (00:00:05) function alnDoMoveLeft redefined
+   (00:00:05) function alnOnRight redefined
+   (00:00:05) function alnDoRight redefined
+   (00:00:05) function alnDoMoveRight redefined
+   (00:00:05) function alnOnCenterH redefined
+   (00:00:05) function alnDoCenterH redefined
+   (00:00:05) function alnMoveToHorizontal redefined
+   (00:00:05) function alnOnCenterV redefined
+   (00:00:05) function alnDoCenterV redefined
+   (00:00:05) function alnMoveToVertical redefined
+   (00:00:05) function alnOnDistributeH redefined
+   (00:00:05) function alnDoCalcStepH redefined
+   (00:00:05) function alnDoDistributeH redefined
+   (00:00:05) function alnDoCalcStepBetweenBoundaryH redefined
+   (00:00:05) function alnDoDistributeGapBetweenBoundaryH redefined
+   (00:00:05) function alnOnDistributeV redefined
+   (00:00:05) function alnDoCalcStepV redefined
+   (00:00:05) function alnDoDistributeV redefined
+   (00:00:05) function alnDoCalcStepBetweenBoundaryV redefined
+   (00:00:05) function alnDoDistributeGapBetweenBoundaryV redefined
+   (00:00:05) function alnOnPickH redefined
+   (00:00:05) function alnDoPickH redefined
+   (00:00:05) function alnOnPickV redefined
+   (00:00:05) function alnDoPickV redefined
+   (00:00:05) function alnGriddedPoint redefined
+   (00:00:05) function alnGetCurrentGrid redefined
+   (00:00:05) function alnMaxX redefined
+   (00:00:05) function alnMinX redefined
+   (00:00:05) function alnMaxY redefined
+   (00:00:05) function alnMinY redefined
+   (00:00:05) function alnOrderByX redefined
+   (00:00:05) function alnComparePositionX redefined
+   (00:00:05) function alnOrderByY redefined
+   (00:00:05) function alnComparePositionY redefined
+   (00:00:05) function alnGetObjectLocation redefined
+   (00:00:05) function alnGetPinLocation redefined
+   (00:00:05) function alnGetObjectBBox redefined
+   (00:00:05) function alnGetBBoxes redefined
+   (00:00:05) function alnGetMinBBoxX redefined
+   (00:00:05) function alnGetMaxBBoxX redefined
+   (00:00:05) function alnGetMinBBoxY redefined
+   (00:00:05) function alnGetMaxBBoxY redefined
+   (00:00:05) function alnRefreshIDs redefined
+   (00:00:05) function alnCheckForFixedObjects redefined
+   (00:00:05) function alnMoveObject redefined
+\t (00:00:08) Opening existing design...
+\i (00:00:08) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged P2126-MB-V3_1
+\d (00:00:08) Design opened: C:/Users/admin/Desktop/P2126/P2126-MB-V3_1.brd
+\i (00:00:08) trapsize 18204
+\i (00:00:08) trapsize 18797
+\i (00:00:09) trapsize 18204
+\i (00:00:09) trapsize 18204
+\i (00:00:09) generaledit 
+\i (00:00:38) trapsize 32074
+\i (00:00:39) trapsize 13525
+\i (00:00:52) toolswap 
+\i (00:02:36) fillin menu_cancel
+\i (00:02:36) generaledit 
+\i (00:03:03) xhilite 
+\i (00:03:03) xname_flush 
+\i (00:03:03) done 
+\i (00:03:03) generaledit 
+\i (00:03:08) zoom out 1 
+\i (00:03:08) setwindow pcb
+\i (00:03:08) zoom out 2399.236 699.697
+\i (00:03:08) trapsize 27051
+\i (00:03:09) roam start
+\i (00:03:09) roam y -176
+\i (00:03:09) roam x -16
+\i (00:03:09) roam y -96
+\i (00:03:09) roam x -160
+\i (00:03:09) roam y -112
+\i (00:03:10) roam x -16
+\i (00:03:10) roam end
+\i (00:03:10) zoom out 1 
+\i (00:03:10) setwindow pcb
+\i (00:03:10) zoom out 2352.281 1890.640
+\i (00:03:10) trapsize 54101
+\i (00:03:11) zoom out 1 
+\i (00:03:11) setwindow pcb
+\i (00:03:11) zoom out 2352.281 1890.640
+\i (00:03:11) trapsize 108202
+\i (00:03:11) zoom in 1 
+\i (00:03:11) setwindow pcb
+\i (00:03:11) zoom in 4451.402 1219.787
+\i (00:03:11) trapsize 54101
+\i (00:03:12) zoom out 1 
+\i (00:03:12) setwindow pcb
+\i (00:03:12) zoom out 4451.402 1219.788
+\i (00:03:12) trapsize 108202
+\i (00:03:12) zoom out 1 
+\i (00:03:12) setwindow pcb
+\i (00:03:12) zoom out 4451.403 1219.787
+\i (00:03:12) trapsize 216404
+\i (00:03:13) zoom in 1 
+\i (00:03:13) setwindow pcb
+\i (00:03:13) zoom in 20919.532 12039.996
+\i (00:03:13) trapsize 108202
+\i (00:03:14) zoom in 1 
+\i (00:03:14) setwindow pcb
+\i (00:03:14) zoom in 20897.891 11996.716
+\i (00:03:14) trapsize 54101
+\i (00:03:15) roam start
+\i (00:03:15) roam x -160
+\i (00:03:15) roam y 112
+\i (00:03:15) roam x -256
+\i (00:03:15) roam y 144
+\i (00:03:15) roam x -160
+\i (00:03:15) roam y 112
+\i (00:03:15) roam x -128
+\i (00:03:15) roam y 80
+\i (00:03:15) roam x -32
+\i (00:03:15) roam y 64
+\i (00:03:15) roam x -96
+\i (00:03:15) roam y 176
+\i (00:03:16) roam end
+\i (00:03:17) roam start
+\i (00:03:17) roam x -144
+\i (00:03:17) roam y 16
+\i (00:03:17) roam end
+\i (00:03:17) zoom in 1 
+\i (00:03:17) setwindow pcb
+\i (00:03:17) zoom in 2125.057 608.446
+\i (00:03:17) trapsize 27051
+\i (00:03:17) zoom in 1 
+\i (00:03:17) setwindow pcb
+\i (00:03:17) zoom in 2152.107 651.727
+\i (00:03:17) trapsize 13525
+\i (00:03:24) enved 
+\i (00:03:27) generaledit 
+\i (00:03:31) setwindow form.prfedit
+\i (00:03:31) FORM prfedit treelist  My_favorites 
+\i (00:03:35) FORM prfedit treelist  Shape_fill Display 
+\i (00:03:36) FORM prfedit no_etch_shape_display YES 
+\i (00:03:36) FORM prfedit apply  
+\i (00:03:37) FORM prfedit done  
+\i (00:03:38) setwindow pcb
+\i (00:03:38) zoom out 1 
+\i (00:03:38) setwindow pcb
+\i (00:03:38) zoom out 1329.771 824.851
+\i (00:03:38) trapsize 27051
+\i (00:03:38) zoom out 1 
+\i (00:03:38) setwindow pcb
+\i (00:03:38) zoom out 1437.974 803.210
+\i (00:03:38) trapsize 54101
+\i (00:03:39) zoom in 1 
+\i (00:03:39) setwindow pcb
+\i (00:03:39) zoom in 1935.703 1160.278
+\i (00:03:39) trapsize 27051
+\i (00:03:39) zoom in 1 
+\i (00:03:39) setwindow pcb
+\i (00:03:39) zoom in 2103.417 381.223
+\i (00:03:39) trapsize 13525
+\i (00:03:40) roam start
+\i (00:03:40) roam x -64
+\i (00:03:40) roam y 80
+\i (00:03:41) roam end
+\i (00:03:41) zoom in 1 
+\i (00:03:41) setwindow pcb
+\i (00:03:41) zoom in 2354.986 205.393
+\i (00:03:41) trapsize 6763
+\i (00:03:44) zoom out 1 
+\i (00:03:44) setwindow pcb
+\i (00:03:44) zoom out 2453.720 45.795
+\i (00:03:44) trapsize 13525
+\i (00:03:46) zoom in 1 
+\i (00:03:46) setwindow pcb
+\i (00:03:46) zoom in 2129.114 80.960
+\i (00:03:46) trapsize 6763
+\i (00:03:48) zoom in 1 
+\i (00:03:48) setwindow pcb
+\i (00:03:48) zoom in 2207.561 327.120
+\i (00:03:48) trapsize 3381
+\i (00:03:49) zoom out 1 
+\i (00:03:49) setwindow pcb
+\i (00:03:49) zoom out 2235.964 222.299
+\i (00:03:49) trapsize 6763
+\i (00:03:51) zoom in 1 
+\i (00:03:51) setwindow pcb
+\i (00:03:51) zoom in 2149.403 321.034
+\i (00:03:51) trapsize 3381
+\i (00:03:57) zoom out 1 
+\i (00:03:57) setwindow pcb
+\i (00:03:57) zoom out 2194.713 315.625
+\i (00:03:57) trapsize 6763
+\i (00:03:59) zoom in 1 
+\i (00:03:59) setwindow pcb
+\i (00:03:59) zoom in 2133.850 452.229
+\i (00:03:59) trapsize 3381
+\i (00:04:00) roam start
+\i (00:04:00) roam y 64
+\i (00:04:00) roam y 128
+\i (00:04:00) roam y 96
+\i (00:04:00) roam y 48
+\i (00:04:00) roam y 32
+\i (00:04:01) roam end
+\i (00:04:04) zoom out 1 
+\i (00:04:04) setwindow pcb
+\i (00:04:04) zoom out 2137.232 187.134
+\i (00:04:04) trapsize 6763
+\i (00:04:10) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: adt"
+\i (00:04:18) roam start
+\i (00:04:18) roam y -32
+\i (00:04:18) roam x 32
+\i (00:04:18) roam y -32
+\i (00:04:18) roam x -16
+\i (00:04:18) roam x -16
+\i (00:04:19) roam end
+\i (00:04:23) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: Silkscreen_Top"
+\i (00:04:23) color -toggle 'BOARD GEOMETRY/SILKSCREEN_TOP' 
+\i (00:04:23) color -toggle 'REF DES/SILKSCREEN_TOP' 
+\i (00:04:23) trapsize 6763
+\i (00:04:24) generaledit 
+\i (00:04:26) zoom out 1 
+\i (00:04:26) setwindow pcb
+\i (00:04:26) zoom out 2280.597 419.091
+\i (00:04:26) trapsize 13525
+\i (00:04:26) zoom out 1 
+\i (00:04:26) setwindow pcb
+\i (00:04:26) zoom out 2280.597 419.092
+\i (00:04:26) trapsize 27051
+\i (00:04:27) zoom in 1 
+\i (00:04:27) setwindow pcb
+\i (00:04:27) zoom in 2280.597 419.091
+\i (00:04:27) trapsize 13525
+\i (00:04:28) zoom out 1 
+\i (00:04:28) setwindow pcb
+\i (00:04:28) zoom out 2280.597 416.387
+\i (00:04:28) trapsize 27051
+\i (00:04:29) zoom in 1 
+\i (00:04:29) setwindow pcb
+\i (00:04:29) zoom in 2616.023 302.774
+\i (00:04:29) trapsize 13525
+\i (00:04:29) zoom in 1 
+\i (00:04:29) setwindow pcb
+\i (00:04:29) zoom in 2616.023 313.595
+\i (00:04:29) trapsize 6763
+\i (00:04:32) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: adt"
+\i (00:04:32) zoom out 1 
+\i (00:04:33) setwindow pcb
+\i (00:04:33) zoom out 2955.508 251.379
+\i (00:04:33) trapsize 13525
+\i (00:04:33) zoom out 1 
+\i (00:04:33) setwindow pcb
+\i (00:04:33) zoom out 2955.507 251.378
+\i (00:04:33) trapsize 27051
+\i (00:04:33) zoom in 1 
+\i (00:04:33) setwindow pcb
+\i (00:04:33) zoom in 2549.750 310.890
+\i (00:04:33) trapsize 13525
+\i (00:04:36) zoom in 1 
+\i (00:04:36) setwindow pcb
+\i (00:04:36) zoom in 3009.609 162.112
+\i (00:04:36) trapsize 6763
+\i (00:06:13) roam start
+\i (00:06:13) roam x -64
+\i (00:06:13) roam x -80
+\i (00:06:13) roam y 16
+\i (00:06:13) roam x -64
+\i (00:06:13) roam x -32
+\i (00:06:13) roam y 16
+\i (00:06:14) roam end
+\i (00:06:14) zoom out 1 
+\i (00:06:14) setwindow pcb
+\i (00:06:14) zoom out 1919.473 120.183
+\i (00:06:14) trapsize 13525
+\t (00:10:08) Performing autosave...
+\t (00:10:09) Autosave successful
+\i (01:47:37) trapsize 18204
+\i (05:37:02) zoom out 1 
+\i (05:37:02) setwindow pcb
+\i (05:37:02) zoom out 2551.183 565.391
+\i (05:37:02) trapsize 36409
+\i (23:19:59) exit 
+\e (23:19:59) Do you want to save the changes you made to P2126-MB-V3_1.brd?
+\i (23:20:02) fillin yes 
+\t (23:20:03)     Journal end - Wed Jul 13 09:46:53 2022
