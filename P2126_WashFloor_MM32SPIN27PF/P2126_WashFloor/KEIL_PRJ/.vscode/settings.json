@@ -1,7 +1,0 @@
-{
-    "debug.allowBreakpointsEverywhere": true,
-    "files.autoGuessEncoding": true,
-    "esls.clang.extraArgs": [
-        "  "
-    ]
-}
